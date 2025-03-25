@@ -1,0 +1,14 @@
+C:\Users\gepwe\source\repos\CsharpBasics\Types\bin\Debug\net8.0\Types.exe
+C:\Users\gepwe\source\repos\CsharpBasics\Types\bin\Debug\net8.0\Types.deps.json
+C:\Users\gepwe\source\repos\CsharpBasics\Types\bin\Debug\net8.0\Types.runtimeconfig.json
+C:\Users\gepwe\source\repos\CsharpBasics\Types\bin\Debug\net8.0\Types.dll
+C:\Users\gepwe\source\repos\CsharpBasics\Types\bin\Debug\net8.0\Types.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\Types\obj\Debug\net8.0\Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gepwe\source\repos\CsharpBasics\Types\obj\Debug\net8.0\Types.AssemblyInfoInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\Types\obj\Debug\net8.0\Types.AssemblyInfo.cs
+C:\Users\gepwe\source\repos\CsharpBasics\Types\obj\Debug\net8.0\Types.csproj.CoreCompileInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\Types\obj\Debug\net8.0\Types.dll
+C:\Users\gepwe\source\repos\CsharpBasics\Types\obj\Debug\net8.0\refint\Types.dll
+C:\Users\gepwe\source\repos\CsharpBasics\Types\obj\Debug\net8.0\Types.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\Types\obj\Debug\net8.0\Types.genruntimeconfig.cache
+C:\Users\gepwe\source\repos\CsharpBasics\Types\obj\Debug\net8.0\ref\Types.dll

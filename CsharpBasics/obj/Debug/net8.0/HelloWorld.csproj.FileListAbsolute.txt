@@ -1,0 +1,14 @@
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\bin\Debug\net8.0\HelloWorld.dll
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\bin\Debug\net8.0\HelloWorld.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\obj\Debug\net8.0\HelloWorld.dll
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\obj\Debug\net8.0\HelloWorld.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\obj\Debug\net8.0\ref\HelloWorld.dll

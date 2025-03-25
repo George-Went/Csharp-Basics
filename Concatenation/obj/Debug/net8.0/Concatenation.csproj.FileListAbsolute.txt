@@ -1,0 +1,14 @@
+C:\Users\gepwe\source\repos\CsharpBasics\Concatenation\bin\Debug\net8.0\Concatenation.exe
+C:\Users\gepwe\source\repos\CsharpBasics\Concatenation\bin\Debug\net8.0\Concatenation.deps.json
+C:\Users\gepwe\source\repos\CsharpBasics\Concatenation\bin\Debug\net8.0\Concatenation.runtimeconfig.json
+C:\Users\gepwe\source\repos\CsharpBasics\Concatenation\bin\Debug\net8.0\Concatenation.dll
+C:\Users\gepwe\source\repos\CsharpBasics\Concatenation\bin\Debug\net8.0\Concatenation.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\Concatenation\obj\Debug\net8.0\Concatenation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gepwe\source\repos\CsharpBasics\Concatenation\obj\Debug\net8.0\Concatenation.AssemblyInfoInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\Concatenation\obj\Debug\net8.0\Concatenation.AssemblyInfo.cs
+C:\Users\gepwe\source\repos\CsharpBasics\Concatenation\obj\Debug\net8.0\Concatenation.csproj.CoreCompileInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\Concatenation\obj\Debug\net8.0\Concatenation.dll
+C:\Users\gepwe\source\repos\CsharpBasics\Concatenation\obj\Debug\net8.0\refint\Concatenation.dll
+C:\Users\gepwe\source\repos\CsharpBasics\Concatenation\obj\Debug\net8.0\Concatenation.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\Concatenation\obj\Debug\net8.0\Concatenation.genruntimeconfig.cache
+C:\Users\gepwe\source\repos\CsharpBasics\Concatenation\obj\Debug\net8.0\ref\Concatenation.dll

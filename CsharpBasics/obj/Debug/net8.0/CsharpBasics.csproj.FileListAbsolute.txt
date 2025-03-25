@@ -1,0 +1,14 @@
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\bin\Debug\net8.0\CsharpBasics.exe
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\bin\Debug\net8.0\CsharpBasics.deps.json
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\bin\Debug\net8.0\CsharpBasics.runtimeconfig.json
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\bin\Debug\net8.0\CsharpBasics.dll
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\bin\Debug\net8.0\CsharpBasics.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\obj\Debug\net8.0\CsharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\obj\Debug\net8.0\CsharpBasics.AssemblyInfoInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\obj\Debug\net8.0\CsharpBasics.AssemblyInfo.cs
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\obj\Debug\net8.0\CsharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\obj\Debug\net8.0\CsharpBasics.dll
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\obj\Debug\net8.0\refint\CsharpBasics.dll
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\obj\Debug\net8.0\CsharpBasics.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\obj\Debug\net8.0\CsharpBasics.genruntimeconfig.cache
+C:\Users\gepwe\source\repos\CsharpBasics\CsharpBasics\obj\Debug\net8.0\ref\CsharpBasics.dll

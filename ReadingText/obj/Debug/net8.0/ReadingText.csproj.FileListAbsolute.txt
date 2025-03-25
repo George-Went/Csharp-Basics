@@ -1,0 +1,14 @@
+C:\Users\gepwe\source\repos\CsharpBasics\ReadingText\bin\Debug\net8.0\ReadingText.exe
+C:\Users\gepwe\source\repos\CsharpBasics\ReadingText\bin\Debug\net8.0\ReadingText.deps.json
+C:\Users\gepwe\source\repos\CsharpBasics\ReadingText\bin\Debug\net8.0\ReadingText.runtimeconfig.json
+C:\Users\gepwe\source\repos\CsharpBasics\ReadingText\bin\Debug\net8.0\ReadingText.dll
+C:\Users\gepwe\source\repos\CsharpBasics\ReadingText\bin\Debug\net8.0\ReadingText.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\ReadingText\obj\Debug\net8.0\ReadingText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gepwe\source\repos\CsharpBasics\ReadingText\obj\Debug\net8.0\ReadingText.AssemblyInfoInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\ReadingText\obj\Debug\net8.0\ReadingText.AssemblyInfo.cs
+C:\Users\gepwe\source\repos\CsharpBasics\ReadingText\obj\Debug\net8.0\ReadingText.csproj.CoreCompileInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\ReadingText\obj\Debug\net8.0\ReadingText.dll
+C:\Users\gepwe\source\repos\CsharpBasics\ReadingText\obj\Debug\net8.0\refint\ReadingText.dll
+C:\Users\gepwe\source\repos\CsharpBasics\ReadingText\obj\Debug\net8.0\ReadingText.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\ReadingText\obj\Debug\net8.0\ReadingText.genruntimeconfig.cache
+C:\Users\gepwe\source\repos\CsharpBasics\ReadingText\obj\Debug\net8.0\ref\ReadingText.dll
