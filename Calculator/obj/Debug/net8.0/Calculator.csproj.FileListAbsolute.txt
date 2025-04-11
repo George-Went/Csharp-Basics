@@ -12,3 +12,4 @@ C:\Users\gepwe\source\repos\CsharpBasics\Calculator\obj\Debug\net8.0\refint\Calc
 C:\Users\gepwe\source\repos\CsharpBasics\Calculator\obj\Debug\net8.0\Calculator.pdb
 C:\Users\gepwe\source\repos\CsharpBasics\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
 C:\Users\gepwe\source\repos\CsharpBasics\Calculator\obj\Debug\net8.0\ref\Calculator.dll
+C:\Users\gepwe\source\repos\CsharpBasics\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json

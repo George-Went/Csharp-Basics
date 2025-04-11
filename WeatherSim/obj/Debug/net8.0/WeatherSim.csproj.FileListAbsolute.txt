@@ -1,0 +1,15 @@
+C:\Users\gepwe\source\repos\CsharpBasics\WeatherSim\bin\Debug\net8.0\WeatherSim.exe
+C:\Users\gepwe\source\repos\CsharpBasics\WeatherSim\bin\Debug\net8.0\WeatherSim.deps.json
+C:\Users\gepwe\source\repos\CsharpBasics\WeatherSim\bin\Debug\net8.0\WeatherSim.runtimeconfig.json
+C:\Users\gepwe\source\repos\CsharpBasics\WeatherSim\bin\Debug\net8.0\WeatherSim.dll
+C:\Users\gepwe\source\repos\CsharpBasics\WeatherSim\bin\Debug\net8.0\WeatherSim.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\WeatherSim\obj\Debug\net8.0\WeatherSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gepwe\source\repos\CsharpBasics\WeatherSim\obj\Debug\net8.0\WeatherSim.AssemblyInfoInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\WeatherSim\obj\Debug\net8.0\WeatherSim.AssemblyInfo.cs
+C:\Users\gepwe\source\repos\CsharpBasics\WeatherSim\obj\Debug\net8.0\WeatherSim.csproj.CoreCompileInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\WeatherSim\obj\Debug\net8.0\WeatherSim.sourcelink.json
+C:\Users\gepwe\source\repos\CsharpBasics\WeatherSim\obj\Debug\net8.0\WeatherSim.dll
+C:\Users\gepwe\source\repos\CsharpBasics\WeatherSim\obj\Debug\net8.0\refint\WeatherSim.dll
+C:\Users\gepwe\source\repos\CsharpBasics\WeatherSim\obj\Debug\net8.0\WeatherSim.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\WeatherSim\obj\Debug\net8.0\WeatherSim.genruntimeconfig.cache
+C:\Users\gepwe\source\repos\CsharpBasics\WeatherSim\obj\Debug\net8.0\ref\WeatherSim.dll

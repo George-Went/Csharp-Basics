@@ -12,3 +12,4 @@ C:\Users\gepwe\source\repos\CsharpBasics\Pythagoras\obj\Debug\net8.0\refint\Pyth
 C:\Users\gepwe\source\repos\CsharpBasics\Pythagoras\obj\Debug\net8.0\Pythagoras.pdb
 C:\Users\gepwe\source\repos\CsharpBasics\Pythagoras\obj\Debug\net8.0\Pythagoras.genruntimeconfig.cache
 C:\Users\gepwe\source\repos\CsharpBasics\Pythagoras\obj\Debug\net8.0\ref\Pythagoras.dll
+C:\Users\gepwe\source\repos\CsharpBasics\Pythagoras\obj\Debug\net8.0\Pythagoras.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\gepwe\source\repos\CsharpBasics\Classes\obj\Debug\net8.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gepwe\source\repos\CsharpBasics\Classes\obj\Debug\net8.0\Classes.AssemblyInfoInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\Classes\obj\Debug\net8.0\Classes.AssemblyInfo.cs
+C:\Users\gepwe\source\repos\CsharpBasics\Classes\obj\Debug\net8.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\Classes\obj\Debug\net8.0\Classes.sourcelink.json
+C:\Users\gepwe\source\repos\CsharpBasics\Classes\bin\Debug\net8.0\Classes.exe
+C:\Users\gepwe\source\repos\CsharpBasics\Classes\bin\Debug\net8.0\Classes.deps.json
+C:\Users\gepwe\source\repos\CsharpBasics\Classes\bin\Debug\net8.0\Classes.runtimeconfig.json
+C:\Users\gepwe\source\repos\CsharpBasics\Classes\bin\Debug\net8.0\Classes.dll
+C:\Users\gepwe\source\repos\CsharpBasics\Classes\bin\Debug\net8.0\Classes.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\Classes\obj\Debug\net8.0\Classes.dll
+C:\Users\gepwe\source\repos\CsharpBasics\Classes\obj\Debug\net8.0\refint\Classes.dll
+C:\Users\gepwe\source\repos\CsharpBasics\Classes\obj\Debug\net8.0\Classes.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\Classes\obj\Debug\net8.0\Classes.genruntimeconfig.cache
+C:\Users\gepwe\source\repos\CsharpBasics\Classes\obj\Debug\net8.0\ref\Classes.dll
