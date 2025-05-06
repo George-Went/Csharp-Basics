@@ -1,0 +1,15 @@
+C:\Users\gepwe\source\repos\CsharpBasics\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Users\gepwe\source\repos\CsharpBasics\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Users\gepwe\source\repos\CsharpBasics\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Users\gepwe\source\repos\CsharpBasics\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Users\gepwe\source\repos\CsharpBasics\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gepwe\source\repos\CsharpBasics\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Users\gepwe\source\repos\CsharpBasics\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+C:\Users\gepwe\source\repos\CsharpBasics\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Users\gepwe\source\repos\CsharpBasics\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Users\gepwe\source\repos\CsharpBasics\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Users\gepwe\source\repos\CsharpBasics\Arrays\obj\Debug\net8.0\ref\Arrays.dll

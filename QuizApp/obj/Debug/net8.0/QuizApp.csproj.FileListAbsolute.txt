@@ -1,0 +1,15 @@
+C:\Users\gepwe\source\repos\CsharpBasics\QuizApp\bin\Debug\net8.0\QuizApp.exe
+C:\Users\gepwe\source\repos\CsharpBasics\QuizApp\bin\Debug\net8.0\QuizApp.deps.json
+C:\Users\gepwe\source\repos\CsharpBasics\QuizApp\bin\Debug\net8.0\QuizApp.runtimeconfig.json
+C:\Users\gepwe\source\repos\CsharpBasics\QuizApp\bin\Debug\net8.0\QuizApp.dll
+C:\Users\gepwe\source\repos\CsharpBasics\QuizApp\bin\Debug\net8.0\QuizApp.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\QuizApp\obj\Debug\net8.0\QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gepwe\source\repos\CsharpBasics\QuizApp\obj\Debug\net8.0\QuizApp.AssemblyInfoInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\QuizApp\obj\Debug\net8.0\QuizApp.AssemblyInfo.cs
+C:\Users\gepwe\source\repos\CsharpBasics\QuizApp\obj\Debug\net8.0\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\QuizApp\obj\Debug\net8.0\QuizApp.sourcelink.json
+C:\Users\gepwe\source\repos\CsharpBasics\QuizApp\obj\Debug\net8.0\QuizApp.dll
+C:\Users\gepwe\source\repos\CsharpBasics\QuizApp\obj\Debug\net8.0\refint\QuizApp.dll
+C:\Users\gepwe\source\repos\CsharpBasics\QuizApp\obj\Debug\net8.0\QuizApp.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\QuizApp\obj\Debug\net8.0\QuizApp.genruntimeconfig.cache
+C:\Users\gepwe\source\repos\CsharpBasics\QuizApp\obj\Debug\net8.0\ref\QuizApp.dll
