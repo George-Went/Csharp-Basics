@@ -21,3 +21,8 @@ Web & Database Projects (ASP.NET)
 
 Public 
 Private 
+
+
+## Creating a WPF Project 
+Project > Create new WPF Project
+Ctrl + Alt + X : opens toolbox

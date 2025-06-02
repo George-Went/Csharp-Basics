@@ -1,0 +1,15 @@
+C:\Users\gepwe\source\repos\CsharpBasics\TextFiles\bin\Debug\net8.0\TextFiles.exe
+C:\Users\gepwe\source\repos\CsharpBasics\TextFiles\bin\Debug\net8.0\TextFiles.deps.json
+C:\Users\gepwe\source\repos\CsharpBasics\TextFiles\bin\Debug\net8.0\TextFiles.runtimeconfig.json
+C:\Users\gepwe\source\repos\CsharpBasics\TextFiles\bin\Debug\net8.0\TextFiles.dll
+C:\Users\gepwe\source\repos\CsharpBasics\TextFiles\bin\Debug\net8.0\TextFiles.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\TextFiles\obj\Debug\net8.0\TextFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gepwe\source\repos\CsharpBasics\TextFiles\obj\Debug\net8.0\TextFiles.AssemblyInfoInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\TextFiles\obj\Debug\net8.0\TextFiles.AssemblyInfo.cs
+C:\Users\gepwe\source\repos\CsharpBasics\TextFiles\obj\Debug\net8.0\TextFiles.csproj.CoreCompileInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\TextFiles\obj\Debug\net8.0\TextFiles.sourcelink.json
+C:\Users\gepwe\source\repos\CsharpBasics\TextFiles\obj\Debug\net8.0\TextFiles.dll
+C:\Users\gepwe\source\repos\CsharpBasics\TextFiles\obj\Debug\net8.0\refint\TextFiles.dll
+C:\Users\gepwe\source\repos\CsharpBasics\TextFiles\obj\Debug\net8.0\TextFiles.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\TextFiles\obj\Debug\net8.0\TextFiles.genruntimeconfig.cache
+C:\Users\gepwe\source\repos\CsharpBasics\TextFiles\obj\Debug\net8.0\ref\TextFiles.dll
