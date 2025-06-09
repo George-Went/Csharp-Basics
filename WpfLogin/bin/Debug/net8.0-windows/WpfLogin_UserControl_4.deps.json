@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WpfLogin_UserControl_4/1.0.0": {
+        "runtime": {
+          "WpfLogin_UserControl_4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfLogin_UserControl_4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

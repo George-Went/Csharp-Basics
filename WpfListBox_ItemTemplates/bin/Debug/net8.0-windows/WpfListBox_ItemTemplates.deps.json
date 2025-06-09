@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WpfListBox_ItemTemplates/1.0.0": {
+        "runtime": {
+          "WpfListBox_ItemTemplates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfListBox_ItemTemplates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

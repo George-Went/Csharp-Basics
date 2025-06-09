@@ -62,7 +62,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Dele
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfBasic", "WpfBasic\WpfBasic.csproj", "{85FD27CF-85AA-4479-923F-B2695F0C5D87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfToDoList", "WpfToDoList\WpfToDoList.csproj", "{58C9A8DD-5F8B-4DB0-A533-D6F753B9FA03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfToDoList", "WpfToDoList\WpfToDoList.csproj", "{58C9A8DD-5F8B-4DB0-A533-D6F753B9FA03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfUserControl", "WpfUserControl\WpfUserControl.csproj", "{D8051612-460B-4E49-9A38-35C1B43782B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfDataBinding", "WpfDataBinding\WpfDataBinding.csproj", "{35124D69-8CEB-4EC3-84DE-909D221F9E70}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfListBox_1", "WpfListBox\WpfListBox_1.csproj", "{827D8AAF-9D5A-462C-9F95-EB5950E63B18}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfListBox_ItemTemplates_2", "WpfListBox_ItemTemplates\WpfListBox_ItemTemplates_2.csproj", "{A42315A2-DD7B-4845-8412-B7AF248B1744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfListBox_SelectionMode_3", "WpfListBox_SelectionMode_3\WpfListBox_SelectionMode_3.csproj", "{9A900A46-B335-4824-8629-2D4EE8008BDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfLogin_UserControl_4", "WpfLogin\WpfLogin_UserControl_4.csproj", "{850F46A5-4E25-4678-A945-A7ECF201F426}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -182,6 +194,30 @@ Global
 		{58C9A8DD-5F8B-4DB0-A533-D6F753B9FA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58C9A8DD-5F8B-4DB0-A533-D6F753B9FA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58C9A8DD-5F8B-4DB0-A533-D6F753B9FA03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8051612-460B-4E49-9A38-35C1B43782B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8051612-460B-4E49-9A38-35C1B43782B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8051612-460B-4E49-9A38-35C1B43782B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8051612-460B-4E49-9A38-35C1B43782B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35124D69-8CEB-4EC3-84DE-909D221F9E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35124D69-8CEB-4EC3-84DE-909D221F9E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35124D69-8CEB-4EC3-84DE-909D221F9E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35124D69-8CEB-4EC3-84DE-909D221F9E70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{827D8AAF-9D5A-462C-9F95-EB5950E63B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827D8AAF-9D5A-462C-9F95-EB5950E63B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827D8AAF-9D5A-462C-9F95-EB5950E63B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827D8AAF-9D5A-462C-9F95-EB5950E63B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A42315A2-DD7B-4845-8412-B7AF248B1744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42315A2-DD7B-4845-8412-B7AF248B1744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42315A2-DD7B-4845-8412-B7AF248B1744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42315A2-DD7B-4845-8412-B7AF248B1744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A900A46-B335-4824-8629-2D4EE8008BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A900A46-B335-4824-8629-2D4EE8008BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A900A46-B335-4824-8629-2D4EE8008BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A900A46-B335-4824-8629-2D4EE8008BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{850F46A5-4E25-4678-A945-A7ECF201F426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{850F46A5-4E25-4678-A945-A7ECF201F426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{850F46A5-4E25-4678-A945-A7ECF201F426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{850F46A5-4E25-4678-A945-A7ECF201F426}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
