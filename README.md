@@ -26,3 +26,10 @@ Private
 ## Creating a WPF Project 
 Project > Create new WPF Project
 Ctrl + Alt + X : opens toolbox
+
+
+## SQL Connections Errors 
+```
+Connect to sql server "The connection properties object must be of 
+type SqlConnectionProperties or OleDBsqlConnectionProperties"
+```

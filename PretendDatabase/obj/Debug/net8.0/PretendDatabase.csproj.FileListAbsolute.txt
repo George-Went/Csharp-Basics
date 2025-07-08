@@ -1,0 +1,15 @@
+C:\Users\gepwe\source\repos\CsharpBasics\PretendDatabase\bin\Debug\net8.0\PretendDatabase.exe
+C:\Users\gepwe\source\repos\CsharpBasics\PretendDatabase\bin\Debug\net8.0\PretendDatabase.deps.json
+C:\Users\gepwe\source\repos\CsharpBasics\PretendDatabase\bin\Debug\net8.0\PretendDatabase.runtimeconfig.json
+C:\Users\gepwe\source\repos\CsharpBasics\PretendDatabase\bin\Debug\net8.0\PretendDatabase.dll
+C:\Users\gepwe\source\repos\CsharpBasics\PretendDatabase\bin\Debug\net8.0\PretendDatabase.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\PretendDatabase\obj\Debug\net8.0\PretendDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gepwe\source\repos\CsharpBasics\PretendDatabase\obj\Debug\net8.0\PretendDatabase.AssemblyInfoInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\PretendDatabase\obj\Debug\net8.0\PretendDatabase.AssemblyInfo.cs
+C:\Users\gepwe\source\repos\CsharpBasics\PretendDatabase\obj\Debug\net8.0\PretendDatabase.csproj.CoreCompileInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\PretendDatabase\obj\Debug\net8.0\PretendDatabase.sourcelink.json
+C:\Users\gepwe\source\repos\CsharpBasics\PretendDatabase\obj\Debug\net8.0\PretendDatabase.dll
+C:\Users\gepwe\source\repos\CsharpBasics\PretendDatabase\obj\Debug\net8.0\refint\PretendDatabase.dll
+C:\Users\gepwe\source\repos\CsharpBasics\PretendDatabase\obj\Debug\net8.0\PretendDatabase.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\PretendDatabase\obj\Debug\net8.0\PretendDatabase.genruntimeconfig.cache
+C:\Users\gepwe\source\repos\CsharpBasics\PretendDatabase\obj\Debug\net8.0\ref\PretendDatabase.dll

@@ -8,13 +8,13 @@ C:\Users\gepwe\source\repos\CsharpBasics\WpfUserControl\obj\Debug\net8.0-windows
 WpfUserControl
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\gepwe\source\repos\CsharpBasics\WpfUserControl\App.xaml
-41793758368
+31614435859
 
-7-428839417
-198-556154604
-LoginView.xaml;MainWindow.xaml;Page1.xaml;Page2.xaml;
+62094587643
+198347540315
+LoginView.xaml;MainWindow.xaml;Page1.xaml;
 
-False
+True
 

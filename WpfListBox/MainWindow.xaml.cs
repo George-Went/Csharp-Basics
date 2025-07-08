@@ -27,18 +27,14 @@ namespace WpfListBox
             new Person{Name="Bart", Age=10}
         };
 
+        List<string> colours = ["orange", "purple", "cyan", "brown"];
+
         public MainWindow()
         {
             InitializeComponent();
-            ListBoxNames.ItemsSource = new List<String>()
-            {
-                "triangle",
-                "sqaure",
-                "pentagon",
-                "hexagon"
-            };
+            List<string> colours = ["orange", "purple", "cyan", "brown"];
 
-            ListBoxNameObjects.ItemsSource = People;
+            ListBoxNameObjects.ItemsSource = colours;
         }
     }
 }

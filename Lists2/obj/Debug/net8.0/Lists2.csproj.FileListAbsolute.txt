@@ -1,0 +1,15 @@
+C:\Users\gepwe\source\repos\CsharpBasics\Lists2\bin\Debug\net8.0\Lists2.exe
+C:\Users\gepwe\source\repos\CsharpBasics\Lists2\bin\Debug\net8.0\Lists2.deps.json
+C:\Users\gepwe\source\repos\CsharpBasics\Lists2\bin\Debug\net8.0\Lists2.runtimeconfig.json
+C:\Users\gepwe\source\repos\CsharpBasics\Lists2\bin\Debug\net8.0\Lists2.dll
+C:\Users\gepwe\source\repos\CsharpBasics\Lists2\bin\Debug\net8.0\Lists2.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\Lists2\obj\Debug\net8.0\Lists2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gepwe\source\repos\CsharpBasics\Lists2\obj\Debug\net8.0\Lists2.AssemblyInfoInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\Lists2\obj\Debug\net8.0\Lists2.AssemblyInfo.cs
+C:\Users\gepwe\source\repos\CsharpBasics\Lists2\obj\Debug\net8.0\Lists2.csproj.CoreCompileInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\Lists2\obj\Debug\net8.0\Lists2.sourcelink.json
+C:\Users\gepwe\source\repos\CsharpBasics\Lists2\obj\Debug\net8.0\Lists2.dll
+C:\Users\gepwe\source\repos\CsharpBasics\Lists2\obj\Debug\net8.0\refint\Lists2.dll
+C:\Users\gepwe\source\repos\CsharpBasics\Lists2\obj\Debug\net8.0\Lists2.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\Lists2\obj\Debug\net8.0\Lists2.genruntimeconfig.cache
+C:\Users\gepwe\source\repos\CsharpBasics\Lists2\obj\Debug\net8.0\ref\Lists2.dll

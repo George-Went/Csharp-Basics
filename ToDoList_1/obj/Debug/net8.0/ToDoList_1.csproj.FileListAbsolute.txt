@@ -1,0 +1,15 @@
+C:\Users\gepwe\source\repos\CsharpBasics\ToDoList_1\bin\Debug\net8.0\ToDoList_1.exe
+C:\Users\gepwe\source\repos\CsharpBasics\ToDoList_1\bin\Debug\net8.0\ToDoList_1.deps.json
+C:\Users\gepwe\source\repos\CsharpBasics\ToDoList_1\bin\Debug\net8.0\ToDoList_1.runtimeconfig.json
+C:\Users\gepwe\source\repos\CsharpBasics\ToDoList_1\bin\Debug\net8.0\ToDoList_1.dll
+C:\Users\gepwe\source\repos\CsharpBasics\ToDoList_1\bin\Debug\net8.0\ToDoList_1.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\ToDoList_1\obj\Debug\net8.0\ToDoList_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gepwe\source\repos\CsharpBasics\ToDoList_1\obj\Debug\net8.0\ToDoList_1.AssemblyInfoInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\ToDoList_1\obj\Debug\net8.0\ToDoList_1.AssemblyInfo.cs
+C:\Users\gepwe\source\repos\CsharpBasics\ToDoList_1\obj\Debug\net8.0\ToDoList_1.csproj.CoreCompileInputs.cache
+C:\Users\gepwe\source\repos\CsharpBasics\ToDoList_1\obj\Debug\net8.0\ToDoList_1.sourcelink.json
+C:\Users\gepwe\source\repos\CsharpBasics\ToDoList_1\obj\Debug\net8.0\ToDoList_1.dll
+C:\Users\gepwe\source\repos\CsharpBasics\ToDoList_1\obj\Debug\net8.0\refint\ToDoList_1.dll
+C:\Users\gepwe\source\repos\CsharpBasics\ToDoList_1\obj\Debug\net8.0\ToDoList_1.pdb
+C:\Users\gepwe\source\repos\CsharpBasics\ToDoList_1\obj\Debug\net8.0\ToDoList_1.genruntimeconfig.cache
+C:\Users\gepwe\source\repos\CsharpBasics\ToDoList_1\obj\Debug\net8.0\ref\ToDoList_1.dll
